@@ -14,8 +14,8 @@ A virtual blog application using the MERN stack (MongoDB, Express js, React js, 
 
 ## Demo
 
-![Image description](/client/public/screenshot-1.png)
-![Image description](/client/public/screenshot-2.png)
+![Image description](/client/public/screenshot1.png)
+![Image description](/client/public/screenshot2.png)
 
 ## Technology
 
