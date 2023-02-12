@@ -14,8 +14,8 @@ A virtual blog application using the MERN stack (MongoDB, Express js, React js, 
 
 ## Demo
 
-![Image description](/client/public/screenshot1.png)
-![Image description](/client/public/screenshot2.png)
+![Image description](https://github.com/m-u-k-u-l/scribblers-blog/blob/master/client/public/Screenshot1.png)
+![Image description](https://github.com/m-u-k-u-l/scribblers-blog/blob/master/client/public/Screenshot2.png)
 
 ## Technology
 
