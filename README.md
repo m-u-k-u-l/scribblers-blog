@@ -1,5 +1,4 @@
-# MERN-Blog
-
+# Scribblsers - A blogging website for EVERYONE
 ## Table of contents
 
 - [Introduction](#introduction)
@@ -8,7 +7,6 @@
 - [Technology](#technology)
 - [Database Models](#database)
 - [Run](#run)
-- [License](#license)
 
 ## Introduction
 
@@ -16,13 +14,8 @@ A virtual blog application using the MERN stack (MongoDB, Express js, React js, 
 
 ## Demo
 
-![Image description](screenshot-1.png)
-
-![Image description](screenshot-2.png)
-
-This application is deployed on Heroku and can be accessed through the following link:
-
-[MERN Blog on Heroku](https://mern-blog-01.herokuapp.com/)
+![Image description](screenshot-a.png)
+![Image description](screenshot-b.png)
 
 ## Technology
 
@@ -94,9 +87,3 @@ After you've set these environmental variables in the .env file at the root of t
 
 Now that the database has data and the environmental variables are all set, you should run the two folders, the client and server together to run the application. Open two terminals, navigate to the client in one and to the server in another, run "npm start" in both terminals and the application should start.
 
-## License
-
-[![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- MIT License
-- Copyright 2021 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
